@@ -1,0 +1,6 @@
+{
+    "name": "collectd-smart",
+    "description": "Checks to manage our smart collectd checks",
+    "path": "collectd-smart",
+    "macros": {}
+}

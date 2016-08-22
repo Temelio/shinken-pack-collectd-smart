@@ -29,4 +29,4 @@ service with _smart_rules per devices types**
 
 ## Default values
 
-    _smart_rules        sda - Bad sectors $(sda)$(smart_badsectors)$$(0)$$(0)$
+    _smart_rules        sda - Bad sectors $(sda)$$(smart_badsectors)$$(0)$$(0)$
